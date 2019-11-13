@@ -6,3 +6,5 @@ Programme die bisher genutzt wurden:
 -Word/Open Office -Draw.io ( Browserbasiert ) 
 -Paint(nicht zu empfehlen) 
 -youporn ( zu anderen Zwecken )
+
+Hier kann ich mit dem handy was mit rein schreiben
