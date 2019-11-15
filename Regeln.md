@@ -18,18 +18,18 @@ Vorläufig ca. 60 Punkte über alle Fähigkeiten verteilen.
 
 ## Questoptionen:
 
-Ware liefern, schmuggeln(Personen, Schiffe, Waren)
-Diplomatischer Auftrag ( vermitteln, ausrichten )
-repariere X
-unterstütze eine Flotte, einen Kampf, eine Lieferung, ein Unterfangen, eine Baustelle,Bauwerk
-Rette X
-Predige
-kläre über Misstände auf
-verbreite Gerüchte
-Erkunde X
-Attentat ausführen
-Kopfgeld jagen
-Geld eintreiben / Schutzgeld
+- Ware liefern, schmuggeln(Personen, Schiffe, Waren)
+- Diplomatischer Auftrag ( vermitteln, ausrichten )
+- repariere X
+- unterstütze eine Flotte, einen Kampf, eine Lieferung, ein Unterfangen, eine Baustelle,Bauwerk
+- Rette X
+- Predige
+- kläre über Misstände auf
+- verbreite Gerüchte
+- Erkunde X
+- Attentat ausführen
+- Kopfgeld jagen
+- Geld eintreiben / Schutzgeld
 
 
 ## Spezialwürfel:
