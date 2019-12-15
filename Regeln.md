@@ -9,12 +9,23 @@ Damit keine Willkür entsteht, werden Entscheidungen ausgewürfelt und
 dabei zählt die 1 als Kritischer Fehler u. die 6 als kritischer Erfolg.
 Spieler können jederzeit ihre Fähigkeiten bei Missionen oder durch Trainings verbessern.
 
+Für eine gute Beteiligung der Mitspieler und für das stetige Teamplay sollen die Spieler so viel 
+wie nur möglich aktiv handeln. Darunter ist gemeint das z.B. Schiffe nur von demjenigen gesteuert werden,
+der auch dieses Schiff fliegt oder der Gunner das MG würfelt. 
+
+Beispiel: 
+Wie bei Startrek:
+Die Gruppe befindet sich ein einer militärischen Mission, vor dem Kampfeintritt legen alle Spieler ihre Rolle fest.
+Gunner, Strategischer Kommandör, Pilot von Flugzeugträger, Jägerpilot, Schiffsmechaniker usw....
+Während des Kampfes sind somit alle involviert und tragen ihre Verantwortung. Gleichzeitig werden auch
+die Fähigkeiten verbessert.
+
 ## Bei der Charaktererstellung:
 
 die Spanne der Fähigkeiten liegt von 0 bis 60
 Dabei kann kein Spieler sofort eine Eigenschaft komplett voll haben u. es muss ausgewogen verteilt sein. 
 Vorläufig ca. 60 Punkte über alle Fähigkeiten verteilen. 
- 
+
 
 ## Questoptionen:
 
@@ -77,11 +88,18 @@ Hangatoor → mindestens zwei Felder für ein Flugzeugstart pro Zug
 → der Gegenspieler kann versuchen sein System auch über Technologieverständnis zu erhalten, 
 dabei würfeln beide wer besser hackt.
 
+**Laserwaffe**
+- der Lauf einer Laserwaffe macht doppelten Schaden
+- Für Schiff-MG einsetzbar
+
 ## Flugmechanik
 
 **Flug**
 Jedes Schiff kann im Kampfzug fliegen u. bei passender Schießrichtung auch feuern.
 Großschiffe bewegen sich eine halbe Länge, Kleinschiffe eine volle.
+
+**Fluggeschwindigkeit**
+Jedes Schiff hat seine eigene Schablone.
 
 **Wenden**
 Typ 1: 180°
@@ -93,7 +111,16 @@ Crashversuch gelingt, außer Gegenspieler kann ausweichen. Dabei zählt die Flug
 Es gelingt bei Schiffstyp1: 60   Typ 2: 90  Typ 3: nicht möglich.
 
 **Kampf**
-Wie auf Folie abgebildet!
+Es gibt zwei Schussarten, Schablone und Fähigkeit.
+Der Spieler entscheidet sich vor dem Schießen welche Möglichkeit er nutzen möchte.
+Bei der Schablone wird folgend gewürfelt:
+1 MG-Rohr entspricht 1 6er Würfelwert auf der Schablone
+
+Bei der Fähigkeit gibt es keinen Streuradius, d.h. der Spieler bestimmt welches
+Bauteil er kaputt schießen möchte und würfelt mit einen 20er Würfel
+In Jägern werden dabei die Flugfähigkeit und das Treffergeschick addiert und geteilt.
+In Großschiffen zählt die Fähigkeit zur Tätigkeit...MG mit Treffergeschick.
+Pilot mit Fluggeschick
 
 **Raketen**
 Raketen können abgeschossen werden. Sie fliegen eine gerade Linie u. dürfen nur ein viertel von 180 grad den Kurs korrigieren.  
