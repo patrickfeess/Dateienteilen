@@ -1,12 +1,37 @@
-**Aufbau von Schiffstyp 2 bis 3** 
+**Aufbau von Großschiffen** 
+##Kleinschiffe
+	- MG 1L
+	- Flügel 2L
+	- Antrieb 3L
+	- Cockpit 3L
+	- Gunner 3L
+	- Rakete 1L
+	- Frachtraum 3L
 
-##Typ 2:
-Damit sind mittlere Kampfschiffe mit Crew gemeint.
-Flugzeugträger-MGSchiff-Frachter
+##Korvetten
+	- Funktionale Besatzung ca. 3-5 Personen
+	- mind. 1 Pilot
+	- Jeder Typ abbildbar, Zivil, Wirtschat, Militär
 
-##Typ 3:
-Große Großkampfschiffe.
-Battlestar-AlienZuchtschiff
+##Fregatten
+	- Funktionale Besatzung ca. 3-8 Personen
+	- mind. Pilot, Kommandeur, Mechaniker
+	- erfüllt eine spezielle Aufgabe (Trägerschiff)
+
+##Leichter Kreuzer
+	- Funktionale Besatzung ca.7-10 
+	- mind. Pilot, Kommandeur, Mechaniker, Gunner, Sicherheit, Medizin
+	- strategische Aufgabe
+
+##Schwerer Kreuzer
+	- Funktionale Besatzung ca. 10-15 
+	- mind. Pilot, Copilot, Kommunikationsoffizier, Kommandeur, Mechaniker, Mediziner, Sicherheit 
+	- strategische Aufgabe
+
+
+##Großkampfschiffe
+	- Funktionale Besatzung ca. 15+
+	- mind. Pilot, 2 Copiloten, Kommunikationsoffizier, Kommandeur, 2 Mechaniker, Mediziner, Sicherheit 
 
 ##Bestandteile:
 - Commando Cockpit - MG/RaketenCockpit - Dornen Cockpit 
@@ -23,9 +48,38 @@ Battlestar-AlienZuchtschiff
 - Antrieb
 - Sonderausstattung
 
+##CrewTypen
+- Kommandant (Intelligenz, Technikverständnis)
+	- Gibt Befehle und plant die Strategie der "Flotte"
 
-**Aufbau Schiffstyp 1**
-Damit sind Jägergemeint mit 1 bis 2 Personen.
+- Kommunikationsoffizier (kann durch Charisma einzelne Crewmitglieder verstärken)
+	- Unterstütz Kommandant und kann die Crew mental unterstützen
+
+- Pilot (Flugfähigkeit)
+	-Steuert das Schiff
+
+-Copilot (Flugfähigkeit)
+	- unterstütz
+- Mediziner (Medizinverständnis)
+
+- Mechaniker (Technikverständnis)
+
+- Sicherheit (Stärke und Treffergeschick)
+
+- Gunner (Treffergeschick)
+
+- Sonstig
+
+
+**Aufbau Kleinschiffe**
+Damit sind Kleinschiffe (z.B. Jäger) mit 1 bis 2 Personen.
+
+##Einmannschiff
+	- Jäger, Raketenjäger, usw..
+	
+##Kleintransporter
+	- Frachter, Truppentransporter
+	- Besatzung ca. 2-3 Personen
 
 ##Bestandteile:
 - Cockpit
