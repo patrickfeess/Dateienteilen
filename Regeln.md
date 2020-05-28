@@ -22,9 +22,11 @@ die Fähigkeiten verbessert.
 
 ## Bei der Charaktererstellung:
 
-die Spanne der Fähigkeiten liegt von 0 bis 60
+die Spanne der anfänglichen Fähigkeiten liegt von 0 bis 60
 Dabei kann kein Spieler sofort eine Eigenschaft komplett voll haben u. es muss ausgewogen verteilt sein. 
-Vorläufig ca. 60 Punkte über alle Fähigkeiten verteilen. 
+Vorläufig ca. 100 Punkte über alle Fähigkeiten verteilen. 
+
+Zur Info: Das maximum einer Fähigkeit ist 100.
 
 
 ## Questoptionen:
@@ -46,7 +48,6 @@ Vorläufig ca. 60 Punkte über alle Fähigkeiten verteilen.
 ## Spezialwürfel:
 
 Grundlegend soll der Erfolg / Misserfolg anhand einer Skala von 0 bis 100 festgelegt werden.
-Die Charakter können ihre Eigenschaften bis zu maximal bis zu 60 Punkte steigern.
 Wenn nun der Spieler etwas spezielles machen möchte dann zählen dessen Charakterpunkte einfach und 
 die Würfelzahl vom 20ger Würfel mal 5. Dieser Wert muss min. 100 ergeben, dann gelingt sein Vorhaben auf jeden Fall. 
 Bei weniger als 100 Punkten darf der Spielleiter entscheiden welche negativen Resultate entstehen. 
@@ -60,14 +61,6 @@ Kleine Schiffe können beliebig in Werften verbessert, umlackiert oder auch  neu
 Für spezielle Fähigkeiten wird das Leben, Preis u. Feuerkraft mit deren Neuerung im Verhältnis 
 zum Preis betrachtet u. individuell im Spiel eingefügt.
 
-**Bei großen Schiffen gilt:**
-
-4 MGS oder Rakten benötigen 1 Reaktor
-4 Antreibe benötigen 1 Reaktor
-1 Raketenwerfer benötigt 1 Kiste
-1 MG benötigen 1 Kiste
-1 Hangarplatz entspricht 1 Flugzeug
-Hangatoor → mindestens zwei Felder für ein Flugzeugstart pro Zug
 
 ## Noch nicht erforschte Technologien
 
@@ -79,14 +72,13 @@ Hangatoor → mindestens zwei Felder für ein Flugzeugstart pro Zug
 → Dafür muss der Bordcomputer auf einen Schiff Typ2 verbessert werden.
 → Kostet 10.000 
 → Aufladezeit 4 Züge und kann 10 Schiffe auf einmal Notspringen lassen.( in der Schlacht )
-	in / oder 2 Felder auf der Landkarte springen. 
+	in / oder 2 Felder auf der Landkarte springen. Benötigt 1500 Energie
 
 **Hacken**
 → dabei muss das Schiff zwei Cockpits haben 
 → Aufrüstung kostet 3.000
-→ Hacken mit Spezialwürfel und Technologieverständnis
-→ der Gegenspieler kann versuchen sein System auch über Technologieverständnis zu erhalten, 
-dabei würfeln beide wer besser hackt.
+→ Hacken mit Spezialwürfel 
+→ der Gegenspieler kann versuchen sein System durch dessen Fähigkeit zu schützen
 
 **Laserwaffe**
 - der Lauf einer Laserwaffe macht doppelten Schaden
@@ -102,13 +94,11 @@ Großschiffe bewegen sich eine halbe Länge, Kleinschiffe eine volle.
 Jedes Schiff hat seine eigene Schablone.
 
 **Wenden**
-Typ 1: 180°
-Typ 2: 90°
-Typ 3: 45°
+Wendigkeitsattribut zählt.
 
 **Ausweichen-Crashversuch**
 Crashversuch gelingt, außer Gegenspieler kann ausweichen. Dabei zählt die Flugfähigkeit und der Spezialwürfel folgendermaßen. 
-Es gelingt bei Schiffstyp1: 60   Typ 2: 90  Typ 3: nicht möglich.
+Es gelingt nur bei Jägern oder kleinschiffen.
 
 **Kampf**
 Es gibt zwei Schussarten, Schablone und Fähigkeit.
@@ -136,12 +126,10 @@ Reaktorzerstörung: Selber Radius wie Rakete aber 3 schaden pro Feld
 ## Personenmechanik
 
 **Gewehrkampf**
-Für Waffen wird eine bestimmte Stärke benötigt.
-Wenn diese nicht aussreicht -20 auf Treffergeschick
 
-Allgemein zählt das Treffergeschick + Spezialwürfel foglend:
-Nahe Distanz: 20 + Treffergeschick + Spezialwürfel
-Mittlere Distanz : 10 + „“+““
+Allgemein zählt die Fähigkeit + Spezialwürfel foglend:
+Nahe Distanz: 20 + Fähigkeit + Spezialwürfel
+Mittlere Distanz : 10 +
 Weite Distanz: Treffergeschick + Spezialwürfel
 
 Bei einem Treffer wird gewürfelt wo der andere getroffen wurde. Für jeden Treffer ein Würfel
@@ -158,17 +146,8 @@ ohne anschließend vom Gegner abgeschossen zu werden.
 
 Trotz Treffer kann z.B. hinter einer Barrikade nur die zu sehenden Körperteile getroffen werden.
 
-**Sturmgewehr**
-Bei Sturmgewehr wird pro Salve 5 Schuss verfeuert im näheren Kampf wird ab 5 -6 getroffen( sonst 6 ) und 
-die Treffer zählen je nach Munitionsart
-
-**Sniper**
-Sniper kann ab Schwerem Kaliber alles feuern. Es wird ab 4-6 getroffen, nur ein Schuss pro feuern.
-
-**Granaten**
-
-Spezialwürfel und Treffergeschick. Wie beim Schießen
-
+**Schusswaffe**
+Treffer ab Fähigkeitswürfel
 
 
 

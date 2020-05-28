@@ -6,7 +6,7 @@
 	- Cockpit 3L
 	- Gunner 3L
 	- Rakete 1L
-	- Frachtraum 3L
+	- Frachtraum 2L
 
 ##Korvetten
 	- Funktionale Besatzung ca. 3-5 Personen
@@ -34,19 +34,20 @@
 	- mind. Pilot, 2 Copiloten, Kommunikationsoffizier, Kommandeur, 2 Mechaniker, Mediziner, Sicherheit 
 
 ##Bestandteile:
-- Commando Cockpit - MG/RaketenCockpit - Dornen Cockpit 
+- Commando Cockpit - MG/RaketenCockpit 
 - Maschinenraum mit Gyroskop
 - Batterie oder Reaktor
 - Medizinstation
-- Lager für MG - Raketen - Ersatzteile - Bomben 
-- Aufenhaltsraum
+- Lager für MG - Raketen 
 - Kajüte
 - Gänge 
 - Schleußen
 - Wände
 - Hangar 
 - Antrieb
+- Werkstatt / Nanitenreperatursystem
 - Sonderausstattung
+- Strukturelle Intigrität (alle Lebenspunkt addiert)
 
 ##CrewTypen
 - Kommandant (Intelligenz, Technikverständnis)
@@ -54,21 +55,13 @@
 
 - Kommunikationsoffizier (kann durch Charisma einzelne Crewmitglieder verstärken)
 	- Unterstütz Kommandant und kann die Crew mental unterstützen
-
-- Pilot (Flugfähigkeit)
-	-Steuert das Schiff
-
--Copilot (Flugfähigkeit)
-	- unterstütz
-- Mediziner (Medizinverständnis)
-
-- Mechaniker (Technikverständnis)
-
-- Sicherheit (Stärke und Treffergeschick)
-
-- Gunner (Treffergeschick)
-
-- Sonstig
+- Pilot 
+-Copilot 
+- Mediziner 
+- Mechaniker 
+- Sicherheit 
+- Gunner 
+- Sonstiges
 
 
 **Aufbau Kleinschiffe**
@@ -87,6 +80,27 @@ Damit sind Kleinschiffe (z.B. Jäger) mit 1 bis 2 Personen.
 - Raketen
 - Antrieb
 - Lager für Raketen, etc.
-- Spezialfuntion
+- Spezialfunktion
 - Flügel für planetaren Eintritt
+
+
+##Systeme
+
+Alle Schiffe können mit folgenden Systemen ausgestattet werden (individuelle natürlich auch)
+
+- Nanoreperatursystem
+
+- Brandlöschsystem
+
+- Lebenserhaltungssystem
+
+- Autopilot
+
+- Täuschungskörper
+
+- Schildsystem
+
+- Abschleppsystem
+
+- Entersystem
 

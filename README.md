@@ -4,7 +4,7 @@ Für Änderungen am Pen and Paper bitte einen eigenen Branch erstellen und diese
 Zusätzlich die Änderungen farblich makieren da ich diese sonst nicht angezeigt bekomme. 
 
 Programme die bisher genutzt wurden:
--Word/Open Office
--Draw.io ( Browserbasiert )
--Paint(nicht zu empfehlen)
+-Texteditor (.md datei ->Markdownformat)
+-Draw.io ( Browserbasiert oder App )
+-Fusion360
 -youpron ( zu anderen Zwecken )
