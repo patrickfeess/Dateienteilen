@@ -1,0 +1,11 @@
+Linux KA:
+
+Zugriffsrechte
+- Rechtokombination ls-l
+-Typ Gruppe usw.. USER und OWNER getrennt betrachten
+- was ist es für eine Datei - Datei d Verzichnis l symbolischer Link
+-Chmod Kommando symbolischer modus und nummerischer
+-rechte müssen on links nach rechts gelesen werden
+-Passwortsicherheit
+-links-> Komponenten einer Datei Aufgabe 6 und 7 bzw..auch alle anderen
+- die ersten Seiten
