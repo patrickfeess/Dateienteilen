@@ -113,12 +113,14 @@ In Großschiffen zählt die Fähigkeit zur Tätigkeit...MG mit Treffergeschick.
 Pilot mit Fluggeschick
 
 **Raketen**
-Raketen können abgeschossen werden. Sie fliegen eine gerade Linie u. dürfen nur ein viertel von 180 grad den Kurs korrigieren.  
-Alle Raketen fliegen doppelt so schnell wie Jäger.
-Verfolgungsraketen bewegen sich wie Normale Jäger, können daher auch ausweichen. Das gelingt ab 5-6
 
-Wenn die Rakete in ihrem Explosionsradius explodiert (Anliegend mittig an dem Punkt wo sie einschlägt) 
-erhält alles in diesem 2 Punkte schaden
+Raketen sind fernsteuerbar. Das bedeutet das sie normal fliegen, mit einer 
+Geschwindigkeit von bis zu 9 und eine Wendigkeit on 4. Wenn eine Rakete 
+explodiert oder absichtlich gezündet wird, entsteht eine energetische Wolke,
+welche Schiffsysteme stören kann, andere Raketen explodieren lässt oder 
+unsteuerbar ausschaltet. Je nach Entfernung wird mit einen Würfel die Folge 
+entschieden. Der Schaden einer einschlagenden Rakete beträgt insgesamt 15, 
+dieser verteilt sich auf 3 Felder. 
 
 **Reaktor**
 Reaktorzerstörung: Selber Radius wie Rakete aber 3 schaden pro Feld

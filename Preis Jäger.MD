@@ -17,7 +17,6 @@
 
 ##Systeme
 
-- Täuschkörper 1000 Credits ( W20 -> mind. 8)
 - Brandlöschsystem  300 Credits
 - Autopilot 500 Credits
 - Reperaturdroide 2000 ( +1 Leben in 2 Zügen ) ( im Rumpf)

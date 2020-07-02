@@ -96,8 +96,6 @@ Alle Schiffe können mit folgenden Systemen ausgestattet werden (individuelle na
 
 - Autopilot
 
-- Täuschungskörper
-
 - Schildsystem
 
 - Abschleppsystem
