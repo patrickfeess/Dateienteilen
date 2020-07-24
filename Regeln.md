@@ -123,7 +123,18 @@ entschieden. Der Schaden einer einschlagenden Rakete beträgt insgesamt 15,
 dieser verteilt sich auf 3 Felder. 
 
 **Reaktor**
-Reaktorzerstörung: Selber Radius wie Rakete aber 3 schaden pro Feld
+Ein Reaktor lädt pro Runde die Batterie mit einen Energiefeld auf (im Ruhezustand)
+Der Reaktor kann überladen werden um die doppelte Aufladung zu erhalten.
+
+**Schilde**
+Die Schildfähigkeit kann durch einen zusätzlichen Maschinenraum ausgestattet werden.
+Ein Schild ist zwei Felder groß und benötigt eine um hochzufahren. Dabei werden 
+2 Energiestäbe verbraucht. Schilde fangen MG Feuer ab und haben 2 Leben. Wenn Schilde
+von Raketen getroffen werden, sind diese Raketen zerstört, allerdings können trotzdem 
+Schäden am Schiff entstehen. Es gilt dabei ein Schaden im Verhältnis zur strukturellen Integrität.
+Das gleiche Prinzip gilt im echten Leben bei Uboten, wenn dort Torpedos vor dem Ubot explodieren
+enstehen ebenfalls enorme Schäden.
+Eigene MG´s können durch den Schild feuern.
 
 ## Personenmechanik
 

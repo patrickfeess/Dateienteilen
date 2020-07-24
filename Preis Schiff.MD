@@ -13,16 +13,14 @@
 | MG3             | 4500    | 6     | -10     | 3x1     |                                      |
 | MG-Lager        | 1500    | 3     |         |         |                                      |
 |                 |         |       |         |         |                                      |
-| Raketensilo     | 5000    | 8     | -10     |         | Kapazität von 3 Raketen              |
-| Norm. Rakete    | 1000    | 1     |         | 6       | Radius von 3 Feldern mit 2 Schaden   |
-| Panzerrakete    | 2000    | 2     |         | 5       |                                      |
-| Verfolg. Rakete | 1500    | 1     |         | 6       | Ausweichen + Wendigkeit              |
-| Atomrakete      | 5000    | 2     |         | 10x3    | auf 3 Feldern + 5cm Radius 2 Schaden |
+| Raketensilo     | 5000    | 8     | -10     |         | Kapazität von 5 Raketen              |
+| Norm. Rakete    | 1000    | 1     |         | 6       | Radius von 3 Feldern mit 5 Schaden   |       
+| Atomrakete      | 5000    | 2     |         | 10x3    | auf 8 Feldern + 10cm Radius 3 Schaden |
 |                 |         |       |         |         |                                      |
 | Antrieb         | 4000    | 6     | -40     |         |                                      |
 | Reaktor         | 4000    | 3     | +200    | 2       | Umliegende Felder                    |
 | Gep. Reaktor    | 6000    | 6     | +200    | 2       |                                      |
-| Batterie        | 4000    | 3     | -Ladung |         | Kapazität 1500                       |
+| Batterie        | 4000    | 3     | -Ladung |         | Kapazität    5 Stäbe                   |
 |                 |         |       |         |         |                                      |
 | Cockpit         | 2000    | 2     | -10     |         |                                      |
 | Gunner Cockpit  | 1500    | 2     | -10     |         |                                      |
