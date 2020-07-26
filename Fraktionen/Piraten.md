@@ -1,9 +1,9 @@
-Die Piraten sind eine professionell aufgebaute 
+Die Mafia sind eine professionell aufgebaute 
 Gruppe an Kriminellen.
 
-Es gibt einen Oberstenrat wo die Piratenfürsten
+Es gibt einen Oberstenrat wo die Mafiafürst 
 sich einkaufen.
-Durch diese Summen ist jeder Piratenfürst für alle verwantwortlich.
+Durch diese Summen ist jeder Mafiafürst für alle verwantwortlich.
 Darunter gibt es Unterbosse und welche sich um das Hauptgeschäft kümmern.
 Es ist eine Vereinigung mit Mafiösen Grundsätzen.
 
