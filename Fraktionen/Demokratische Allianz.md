@@ -3,8 +3,6 @@ Die Demokratische Allianz
 Oberste Führung: 10 Abgeordnete
 4 aus Militär | 6 aus Zivil
 
-Zusätzlich gibt es 2 große, alte und mächtige Firmen.
-Space D und Roskos. 
 
 Es gibt 3 große Parteien.
 1. Allianz-voran (AV)
@@ -17,7 +15,7 @@ Fortschritt erweitern.
 Das Allianzsystem ist in den äußeren Regionen gespalten. Anstatt abgespaltete
 Gebiete gewaltsam wieder einzugliedern, möchten sie das über Friedens- und Wirtschaftsverträge 
 lösen. Die Freien Völker brauchen eine Stimme und müssen für ihre Leistungen annerkant werden.
-Piraten stehen auf der Schwarzen Liste, statt Rohstoffe einzuverleiben möchten Sie den 
+Mafiosis stehen auf der Schwarzen Liste, statt Rohstoffe einzuverleiben möchten Sie den 
 Schwarzmarkt bekämpfen und das Wirtschaftssystem so stabilisieren.
 Ein großes Anliegen ist dabei das Sozialsystem auszubauen, damit die Leute 
 besser unterstütz werden und somit wieder zur Allianz zurück kehren. Viele 
